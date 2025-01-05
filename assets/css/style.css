@@ -239,6 +239,7 @@ main {
 }
 
 /* Extra Large devices (laptops and desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
     #benefits {
         display: flex;
         flex-direction: row;
